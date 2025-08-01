@@ -1,6 +1,6 @@
 # 🏥 Hospital Emergency Room Analysis Project  
-![Language](https://img.shields.io/badge/Language-Excel-blue)
-![Tool](https://img.shields.io/badge/Visualization-Excel%20Dashboard-yellow)
+![Language](https://img.shields.io/badge/Language-16A085)
+![Tool](https://img.shields.io/badge/Visualization-Excel%20Dashboard-16A085)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![Data](https://img.shields.io/badge/Data-Hospital--ER--Synthetic-red)
 
