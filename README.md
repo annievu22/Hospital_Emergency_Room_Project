@@ -67,7 +67,9 @@ This section outlines the full Excel-based workflow, leveraging **Power Query**,
   > - Daily Visit Count and Referral Trends  
 - Established relationships between tables to support interactive filtering and dynamic KPIs  
 
-### 4.3. Excel Dashboard Design
+---
+
+## 5. Excel Dashboard Design
 
 This Excel dashboard enables hospital staff and analysts to explore emergency room performance trends across departments, demographics, and timeframes using interactive charts, KPIs, and slicers.
 
@@ -76,8 +78,6 @@ This Excel dashboard enables hospital staff and analysts to explore emergency ro
 ### Dashboard Snapshot
 
 ![Hospital Emergency Dashboard](https://github.com/annievu22/Hospital_Emergency_Room_Project/blob/main/Hospital%20ER%20Project%20-%20Excel%20Dashboard%20Snapshot.jpeg)
-
----
 
 ### Walkthrough of Key Visuals:
 
@@ -107,7 +107,7 @@ This dashboard provides an accessible, Excel-native solution for emergency room 
 
 ---
 
-## 5. Final Conclusion
+## 6. Final Conclusion
 
 This project demonstrates the power of Excel as a standalone tool for business intelligence and reporting. Without the need for coding or external platforms, we created a dashboard that allows hospital teams to make faster, more informed decisions in emergency care environments.
 
