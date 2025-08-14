@@ -79,6 +79,8 @@ This Excel dashboard enables hospital staff and analysts to explore emergency ro
 
 ![Hospital Emergency Dashboard](https://github.com/annievu22/Hospital_Emergency_Room_Project/blob/main/Hospital%20ER%20Project%20-%20Excel%20Dashboard%20Snapshot.jpeg)
 
+---
+
 ### Walkthrough of Key Visuals:
 
 * **Admission Status by Gender (Pie Chart):**  
